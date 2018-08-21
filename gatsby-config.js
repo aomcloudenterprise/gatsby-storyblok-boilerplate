@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-storyblok',
       options: {
-        accessToken:'BhxskNNhvsSaX8TLCLdgLgtt',
+        accessToken:'twHD3HRSbieQ5Wni8IXe0Qtt ',
         homeSlug: 'home',
         version: 'draft'
       }
